@@ -1,0 +1,1761 @@
+var siteDziImages =    [
+                        //  DIZ IMAGE DATA LOCAL MATCHING ORDER AS IN AMAZON S3 REPOSITORY
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-04-26-16_55_47 folder
+                        {
+                        //  ??? 1st part of scroll the text is upside down ???
+                        Id: "200374",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/200374_files/",
+                        Height: "1480",
+                        Width: "58800",
+                        },
+                        {
+                        Id: "200375",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/200375_files/",
+                        Height: "1790",
+                        Width: "87153",
+                        },
+                        {
+                        Id: "200376",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/200376_files/",
+                        Height: "1773",
+                        Width: "66910",
+                        },
+                        {
+                        Id: "201164",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/201164_files/",
+                        Height: "3513",
+                        Width: "137902",
+                        },
+                        {
+                        Id: "201165",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/201165_files/",
+                        Height: "2649",
+                        Width: "115000",
+                        },
+                        {
+                        Id: "201299",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/201299_files/",
+                        Height: "2042",
+                        Width: "72900",
+                        },
+                        {
+                        Id: "201300",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/201300_files/",
+                        Height: "1822",
+                        Width: "52035",
+                        },
+                        {
+                        Id: "201301",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/201301_files/",
+                        Height: "1840",
+                        Width: "45425",
+                        },
+                        {
+                        Id: "201302",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/201302_files/",
+                        Height: "2068",
+                        Width: "42334",
+                        },
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-01-10_47_56 folder
+                        
+                        {
+                        Id: "201303",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/201303_files/",
+                        Height: "1775",
+                        Width: "49286",
+                        },
+                        {
+                        Id: "201304",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/201304_files/",
+                        Height: "1622",
+                        Width: "40247",
+                        },
+                        {
+                        Id: "202085",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/202085_files/",
+                        Height: "3600",
+                        Width: "114800",
+                        },
+                        {
+                        Id: "202086",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/202086_files/",
+                        Height: "3559",
+                        Width: "136323",
+                        },
+                        {
+                        Id: "212378",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/212378_files/",
+                        Height: "2364",
+                        Width: "97387",
+                        },
+                        {
+                        Id: "212986",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/212986_files/",
+                        Height: "2439",
+                        Width: "78655",
+                        },
+                        {
+                        Id: "212987",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/212987_files/",
+                        Height: "2688",
+                        Width: "86264",
+                        },
+                        {
+                        Id: "219936",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/219936_files/",
+                        Height: "1548",
+                        Width: "18406",
+                        },
+                        {
+                        Id: "219937",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/219937_files/",
+                        Height: "2612",
+                        Width: "52797",
+                        },
+                        {
+                        Id: "219938",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/219938_files/",
+                        Height: "742",
+                        Width: "9155",
+                        },
+                        {
+                        Id: "219939",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-F80-5_files/",
+                        Height: "2612",
+                        Width: "52797",
+                        },
+                        {
+                        Id: "265229",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/265229_files/",
+                        Height: "2974",
+                        Width: "88041",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-01-12_32_41 folder
+                        
+                        {
+                        Id: "265230",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/265230_files/",
+                        Height: "3692",
+                        Width: "90089",
+                        },
+                        {
+                        //  ??? Height is bigger than the Width ???
+                        Id: "713795",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/713795_files/",
+                        Height: "1889",
+                        Width: "1553",
+                        },
+                        {
+                        //  ??? Almost square ???
+                        Id: "725726",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/725726_files/",
+                        Height: "3424",
+                        Width: "3988",
+                        },
+                        {
+                        //  ??? Almost square ???
+                        Id: "725730",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/725730_files/",
+                        Height: "2855",
+                        Width: "4084",
+                        },
+                        {
+                        //  ??? Almost square ???
+                        Id: "725757",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/725757_files/",
+                        Height: "2748",
+                        Width: "3992",
+                        },
+                        {
+                        Id: "727350",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/727350_files/",
+                        Height: "2591",
+                        Width: "87144",
+                        },
+                        {
+                        Id: "728337",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-50-1455_files/",
+                        Height: "2699",
+                        Width: "25881",
+                        },
+                        {
+                        Id: "728338",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-58-37_files/",
+                        Height: "3400",
+                        Width: "134168",
+                        },
+                        {
+                        Id: "728339",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-12-886_files/",
+                        Height: "3127",
+                        Width: "38528",
+                        },
+                        {
+                        Id: "728341",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-33-364_files/",
+                        Height: "2821",
+                        Width: "21549",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-01-13_14_28 folder
+                        
+                        {
+                        Id: "728342",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-51-698_files/",
+                        Height: "2232",
+                        Width: "43594",
+                        },
+                        {
+                        Id: "728343",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-20-757_files/",
+                        Height: "2273",
+                        Width: "31444",
+                        },
+                        {
+                        Id: "728344",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-55-87_files/",
+                        Height: "4992",
+                        Width: "48748",
+                        },
+                        {
+                        Id: "728345",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/SMT-1987-56_files/",
+                        Height: "1516",
+                        Width: "31502",
+                        },
+                        {
+                        Id: "728346",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-12-902_files/",
+                        Height: "4992",
+                        Width: "52455",
+                        },
+                        {
+                        Id: "728347",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-17-1697_files/",
+                        Height: "2890",
+                        Width: "83320",
+                        },
+                        {
+                        Id: "728348",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-52-1380_files/",
+                        Height: "2765",
+                        Width: "67264",
+                        },
+                        {
+                        Id: "728349",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-31-123_files/",
+                        Height: "2984",
+                        Width: "76761",
+                        },
+                        {
+                        Id: "728351",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/728351_files/",
+                        Height: "1564",
+                        Width: "76410",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-01-13_53_29 folder
+                        
+                        {
+                        Id: "728352",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-56-494_files/",
+                        Height: "4992",
+                        Width: "75338",
+                        },
+                        {
+                        Id: "728353",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-56-257_files/",
+                        Height: "4973",
+                        Width: "66026",
+                        },
+                        {
+                        Id: "728354",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-57-724_files/",
+                        Height: "3054",
+                        Width: "75712",
+                        },
+                        {
+                        Id: "728355",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-11-9456_files/",
+                        Height: "3264",
+                        Width: "90721",
+                        },
+                        {
+                        Id: "728356",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-11-9457_files/",
+                        Height: "3320",
+                        Width: "90830",
+                        },
+                        {
+                        Id: "728357",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/728357_files/",
+                        Height: "2241",
+                        Width: "56532",
+                        },
+                        {
+                        Id: "728358",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-34-1460_files/",
+                        Height: "2653",
+                        Width: "78816",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "728359",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-59-960_files/",
+                        Height: "902",
+                        Width: "16750",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "728360",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-31-643_files/",
+                        Height: "788",
+                        Width: "17977",
+                        },
+                        {
+                        Id: "728361",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1950-1370_files/",
+                        Height: "4509",
+                        Width: "22834",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-01-14_41_00 folder
+                        
+                        {
+                        //  ??? Low resolution
+                        Id: "728362",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-48-1245_files/",
+                        Height: "1314",
+                        Width: "13634",
+                        },
+                        {
+                        Id: "728363",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-57-5_files/",
+                        Height: "2724",
+                        Width: "37098",
+                        },
+                        {
+                        Id: "728364",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/728364_files/",
+                        Height: "2069",
+                        Width: "54004",
+                        },
+                        {
+                        Id: "860000",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860000_files/",
+                        Height: "2878",
+                        Width: "85578",
+                        },
+                        {
+                        Id: "860001",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860001_files/",
+                        Height: "2591",
+                        Width: "73175",
+                        },
+                        {
+                        Id: "860002",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860002_files/",
+                        Height: "2566",
+                        Width: "78493",
+                        },
+                        {
+                        Id: "860003",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860003_files/",
+                        Height: "2210",
+                        Width: "67768",
+                        },
+                        {
+                        Id: "860004",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860004_files/",
+                        Height: "2844",
+                        Width: "76996",
+                        },
+                        {
+                        Id: "860005",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860005_files/",
+                        Height: "2879",
+                        Width: "72415",
+                        },
+                        {
+                        Id: "860006",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860006_files/",
+                        Height: "3108",
+                        Width: "92302",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-01-15_22_04 folder
+                        
+                        {
+                        Id: "860007",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860007_files/",
+                        Height: "2877",
+                        Width: "84920",
+                        },
+                        {
+                        Id: "860008",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860008_files/",
+                        Height: "2891",
+                        Width: "80275",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "860010",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860010_files/",
+                        Height: "1171",
+                        Width: "7233",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "860011",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860011_files/",
+                        Height: "1329",
+                        Width: "6412",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "860012",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860012_files/",
+                        Height: "1584",
+                        Width: "21120",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "860013",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860013_files/",
+                        Height: "1385",
+                        Width: "14314",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "860014",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/860014_files/",
+                        Height: "1227",
+                        Width: "8756",
+                        },
+                        {
+                        Id: "7126404",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7126404_files/",
+                        Height: "1781",
+                        Width: "25731",
+                        },
+                        {
+                        Id: "7128024",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128024_files/",
+                        Height: "2926",
+                        Width: "45366",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-02-10_57_26 folder
+                        
+                        {
+                        Id: "7128026",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128026_files/",
+                        Height: "2850",
+                        Width: "40020",
+                        },
+                        {
+                        Id: "7128140",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128140_files/",
+                        Height: "3626",
+                        Width: "90000",
+                        },
+                        {
+                        //  ??? Square low resolution BAD
+                        Id: "7128697",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128697_files/",
+                        Height: "3060",
+                        Width: "3012",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128706",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128706_files/",
+                        Height: "3000",
+                        Width: "5504",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128707",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128707_files/",
+                        Height: "3000",
+                        Width: "4676",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128708",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128708_files/",
+                        Height: "3052",
+                        Width: "2245",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128721",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128721_files/",
+                        Height: "1613",
+                        Width: "2098",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128722",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128722_files/",
+                        Height: "3110",
+                        Width: "5365",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128723",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128723_files/",
+                        Height: "2967",
+                        Width: "5262",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128724",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128724_files/",
+                        Height: "3018",
+                        Width: "4842",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-02-11_34_28 folder
+                        
+                        {
+                        //  ??? Small square low resolution
+                        Id: "7128725",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128725_files/",
+                        Height: "3060",
+                        Width: "3637",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128809",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128809_files/",
+                        Height: "3073",
+                        Width: "5024",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128810",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128810_files/",
+                        Height: "3043",
+                        Width: "4482",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128811",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128811_files/",
+                        Height: "3074",
+                        Width: "6969",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128812",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128812_files/",
+                        Height: "3046",
+                        Width: "4772",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128813",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128813_files/",
+                        Height: "3032",
+                        Width: "4807",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128814",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128814_files/",
+                        Height: "3000",
+                        Width: "4352",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7128815",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7128815_files/",
+                        Height: "3063",
+                        Width: "5829",
+                        },
+                        {
+                        Id: "7130541",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7130541_files/",
+                        Height: "3131",
+                        Width: "51574",
+                        },
+                        {
+                        Id: "7130542",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7130542_files/",
+                        Height: "3306",
+                        Width: "28228",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-02-12_04_32 folder
+                        
+                        {
+                        Id: "7130543",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7130543_files/",
+                        Height: "4826",
+                        Width: "39924",
+                        },
+                        {
+                        Id: "7130848",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7130848_files/",
+                        Height: "4593",
+                        Width: "33112",
+                        },
+                        {
+                        Id: "7130849",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7130849_files/",
+                        Height: "3000",
+                        Width: "75081",
+                        },
+                        {
+                        Id: "7131207",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7131207_files/",
+                        Height: "1728",
+                        Width: "55072",
+                        },
+                        {
+                        Id: "7131208",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7131208_files/",
+                        Height: "1627",
+                        Width: "25847",
+                        },
+                        {
+                        Id: "7131209",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7131209_files/",
+                        Height: "1740",
+                        Width: "25246",
+                        },
+                        {
+                        Id: "7131210",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7131210_files/",
+                        Height: "1725",
+                        Width: "29504",
+                        },
+                        {
+                        Id: "7131211",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7131211_files/",
+                        Height: "1680",
+                        Width: "27080",
+                        },
+                        {
+                        Id: "7131214",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7131214_files/",
+                        Height: "2523",
+                        Width: "62151",
+                        },
+                        {
+                        Id: "7131265",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7131265_files/",
+                        Height: "2400",
+                        Width: "51264",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-02-13_12_14 folder
+                        
+                        {
+                        Id: "7131266",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7131266_files/",
+                        Height: "5024",
+                        Width: "11269",
+                        },
+                        {
+                        Id: "7131267",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7131267_files/",
+                        Height: "2503",
+                        Width: "44199",
+                        },
+                        {
+                        Id: "7131268",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7131268_files/",
+                        Height: "2460",
+                        Width: "62292",
+                        },
+                        {
+                        Id: "7132706",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7132706_files/",
+                        Height: "2971",
+                        Width: "126924",
+                        },
+                        {
+                        Id: "7132707",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7132707_files/",
+                        Height: "2997",
+                        Width: "141478",
+                        },
+                        {
+                        Id: "7132708",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7132708_files/",
+                        Height: "2984",
+                        Width: "132595",
+                        },
+                        {
+                        Id: "7132709",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7132709_files/",
+                        Height: "3000",
+                        Width: "125207",
+                        },
+                        {
+                        Id: "7134165",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7134165_files/",
+                        Height: "1950",
+                        Width: "31386",
+                        },
+                        {
+                        Id: "7134166",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7134166_files/",
+                        Height: "3013",
+                        Width: "103641",
+                        },
+                        {
+                        Id: "7134167",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7134167_files/",
+                        Height: "3000",
+                        Width: "127586",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-02-15_03_42 folder
+                        
+                        
+                        {
+                        Id: "7134168",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7134168_files/",
+                        Height: "3000",
+                        Width: "129294",
+                        },
+                        {
+                        Id: "7134169",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7134169_files/",
+                        Height: "3000",
+                        Width: "123084",
+                        },
+                        {
+                        Id: "7134170",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7134170_files/",
+                        Height: "3000",
+                        Width: "89711",
+                        },
+                        {
+                        Id: "7134171",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7134171_files/",
+                        Height: "3000",
+                        Width: "95118",
+                        },
+                        {
+                        Id: "7134172",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7134172_files/",
+                        Height: "3000",
+                        Width: "120876",
+                        },
+                        {
+                        Id: "7134173",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7134173_files/",
+                        Height: "3000",
+                        Width: "106756",
+                        },
+                        {
+                        Id: "7137937",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137937_files/",
+                        Height: "2916",
+                        Width: "57436",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "7137942",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137942_files/",
+                        Height: "578",
+                        Width: "14446",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "7137943",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137943_files/",
+                        Height: "600",
+                        Width: "16716",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "7137944",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137944_files/",
+                        Height: "600",
+                        Width: "15721",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-02-16_01_22 folder
+                        
+                        {
+                        Id: "7137945",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137945_files/",
+                        Height: "3130",
+                        Width: "79575",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7137947",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137947_files/",
+                        Height: "2945",
+                        Width: "5433",
+                        },
+                        {
+                        //  ??? Small rectangle low resolution
+                        Id: "7137949",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137949_files/",
+                        Height: "2907",
+                        Width: "7887",
+                        },
+                        {
+                        Id: "7137950",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/UNK-1_files/",
+                        Height: "1360",
+                        Width: "27750",
+                        },
+                        {
+                        Id: "7137951",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137951_files/",
+                        Height: "2304",
+                        Width: "63726",
+                        },
+                        {
+                        Id: "7137952",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MFA-13-481_files/",
+                        Height: "2967",
+                        Width: "37528",
+                        },
+                        {
+                        Id: "7137953",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137953_files/",
+                        Height: "2576",
+                        Width: "76836",
+                        },
+                        {
+                        Id: "7137954",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137954_files/",
+                        Height: "1636",
+                        Width: "45100",
+                        },
+                        {
+                        Id: "7137955",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137955_files/",
+                        Height: "1717",
+                        Width: "43890",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "7137956",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137956_files/",
+                        Height: "600",
+                        Width: "10338",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-02-16_34_33 folder
+                        
+                        {
+                        //  ??? Small low resolution
+                        Id: "7137957",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137957_files/",
+                        Height: "600",
+                        Width: "14327",
+                        },
+                        {
+                        //  ??? Small low resolution
+                        Id: "7137958",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137958_files/",
+                        Height: "600",
+                        Width: "13573",
+                        },
+                        {
+                        Id: "7137962",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137962_files/",
+                        Height: "3264",
+                        Width: "15966",
+                        },
+                        {
+                        Id: "7137965",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137965_files/",
+                        Height: "3236",
+                        Width: "138656",
+                        },
+                        {
+                        Id: "7137966",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137966_files/",
+                        Height: "2816",
+                        Width: "63978",
+                        },
+                        {
+                        Id: "7137967",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137967_files/",
+                        Height: "3236",
+                        Width: "128718",
+                        },
+                        {
+                        Id: "7137968",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137968_files/",
+                        Height: "3261",
+                        Width: "26216",
+                        },
+                        {
+                        Id: "7137969",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137969_files/",
+                        Height: "2259",
+                        Width: "19484",
+                        },
+                        {
+                        Id: "7137970",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137970_files/",
+                        Height: "3253",
+                        Width: "84980",
+                        },
+                        {
+                        Id: "7137971",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137971_files/",
+                        Height: "3269",
+                        Width: "110676",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-03-10_49_06 folder
+                        
+                        {
+                        Id: "7137972",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137972_files/",
+                        Height: "3185",
+                        Width: "59671",
+                        },
+                        {
+                        Id: "7137974",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137974_files/",
+                        Height: "1809",
+                        Width: "43993",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "7137975",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137975_files/",
+                        Height: "600",
+                        Width: "4169",
+                        },
+                        {
+                        //  ???
+                        Id: "7137976",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137976_files/",
+                        Height: "600",
+                        Width: "47101",
+                        },
+                        {
+                        //  ???
+                        Id: "7137977",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137977_files/",
+                        Height: "600",
+                        Width: "37941",
+                        },
+                        {
+                        Id: "7137978",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137978_files/",
+                        Height: "1949",
+                        Width: "29126",
+                        },
+                        {
+                        Id: "7137980",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137980_files/",
+                        Height: "3770",
+                        Width: "69113",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "7137981",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137981_files/",
+                        Height: "574",
+                        Width: "8806",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "7137982",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137982_files/",
+                        Height: "570",
+                        Width: "7620",
+                        },
+                        {
+                        Id: "7137983",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137983_files/",
+                        Height: "3417",
+                        Width: "90000",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-03-15_38_25 folder
+                        
+                        {
+                        Id: "7137984",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7137984_files/",
+                        Height: "2757",
+                        Width: "61530",
+                        },
+                        {
+                        Id: "7140086",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7140086_files/",
+                        Height: "3210",
+                        Width: "35902",
+                        },
+                        {
+                        Id: "7140342",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-46-50_files/",
+                        Height: "4021",
+                        Width: "90541",
+                        },
+                        {
+                        Id: "7140343",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-31-135:33_files/",
+                        Height: "4016",
+                        Width: "54757",
+                        },
+                        {
+                        Id: "7140344",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-32-159:1_files/",
+                        Height: "7129",
+                        Width: "27352",
+                        },
+                        {
+                        Id: "7140345",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-32-159:2_files/",
+                        Height: "3031",
+                        Width: "59818",
+                        },
+                        {
+                        Id: "7140346",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-33-1559_files/",
+                        Height: "7131",
+                        Width: "34673",
+                        },
+                        {
+                        Id: "7140347",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-48-15_files/",
+                        Height: "7303",
+                        Width: "32536",
+                        },
+                        {
+                        Id: "7140348",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-48-16_files/",
+                        Height: "3846",
+                        Width: "101442",
+                        },
+                        {
+                        Id: "7140349",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-48-17_files/",
+                        Height: "3931",
+                        Width: "66680",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-03-16_37_30 folder
+                        
+                        {
+                        Id: "7140350",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-49-40_files/",
+                        Height: "1925",
+                        Width: "18045",
+                        },
+                        {
+                        Id: "7140351",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-53-49_files/",
+                        Height: "3526",
+                        Width: "38480",
+                        },
+                        {
+                        Id: "7140352",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-58-10_files/",
+                        Height: "3722",
+                        Width: "88333",
+                        },
+                        {
+                        Id: "7140353",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-63-19_files/",
+                        Height: "3225",
+                        Width: "35169",
+                        },
+                        {
+                        Id: "7140354",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7140354_files/",
+                        Height: "5614",
+                        Width: "50404",
+                        },
+                        {
+                        Id: "7140355",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-F74-35_files/",
+                        Height: "6990",
+                        Width: "117634",
+                        },
+                        {
+                        Id: "7140356",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1995-275_files/",
+                        Height: "1734",
+                        Width: "30916",
+                        },
+                        {
+                        Id: "7140357",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1961-963_files/",
+                        Height: "1087",
+                        Width: "36529",
+                        },
+                        {
+                        Id: "7140358",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1956-1256_files/",
+                        Height: "1047",
+                        Width: "41324",
+                        },
+                        {
+                        Id: "7140359",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1940-1076_files/",
+                        Height: "2056",
+                        Width: "103766",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-09-11_10_07 folder
+                        
+                        {
+                        //  ??? Low resolution
+                        Id: "7140360",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1952-9_files/",
+                        Height: "1966",
+                        Width: "8797",
+                        },
+                        {
+                        Id: "7140361",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1950-1369_files/",
+                        Height: "1612",
+                        Width: "32360",
+                        },
+                        {
+                        Id: "7140362",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1954-105_files/",
+                        Height: "1784",
+                        Width: "32094",
+                        },
+                        {
+                        Id: "7140363",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1941-13_files/",
+                        Height: "1506",
+                        Width: "26508",
+                        },
+                        {
+                        Id: "7140364",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1943-1157_files/",
+                        Height: "1234",
+                        Width: "13324",
+                        },
+                        {
+                        Id: "7140365",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1948-103_files/",
+                        Height: "1860",
+                        Width: "36310",
+                        },
+                        {
+                        Id: "7140366",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1967-590_files/",
+                        Height: "1893",
+                        Width: "60105",
+                        },
+                        {
+                        Id: "7140367",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1952-8_files/",
+                        Height: "1566",
+                        Width: "60738",
+                        },
+                        {
+                        Id: "7141088",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7141088_files/",
+                        Height: "3731",
+                        Width: "37392",
+                        },
+                        {
+                        Id: "7141089",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-72-8_files/",
+                        Height: "3267",
+                        Width: "27594",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-09-11_46_16 folder
+                        
+                        {
+                        //  ??? Low resolution
+                        Id: "7142498",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7142498_files/",
+                        Height: "829",
+                        Width: "14676",
+                        },
+                        {
+                        Id: "7142499",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7142499_files/",
+                        Height: "1442",
+                        Width: "28314",
+                        },
+                        {
+                        Id: "7142530",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/NEL-48-5_files/",
+                        Height: "2307",
+                        Width: "24873",
+                        },
+                        {
+                        //  ??? Low resolution
+                        Id: "7142531",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7142531_files/",
+                        Height: "600",
+                        Width: "23996",
+                        },
+                        {
+                        Id: "7146066",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7146066_files/",
+                        Height: "3350",
+                        Width: "124058",
+                        },
+                        {
+                        Id: "7146067",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7146067_files/",
+                        Height: "3356",
+                        Width: "125251",
+                        },
+                        {
+                        Id: "7146068",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7146068_files/",
+                        Height: "1651",
+                        Width: "58086",
+                        },
+                        {
+                        Id: "7146069",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7146069_files/",
+                        Height: "1685",
+                        Width: "48653",
+                        },
+                        {
+                        //  ??? Short rectangle
+                        Id: "7146070",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7146070_files/",
+                        Height: "2971",
+                        Width: "11957",
+                        },
+                        {
+                        //  ??? Short rectangle
+                        Id: "7146071",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7146071_files/",
+                        Height: "2899",
+                        Width: "5125",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-09-13_20_09 folder
+                        
+                        {
+                        Id: "7148102",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7148102_files/",
+                        Height: "2856",
+                        Width: "26211",
+                        },
+                        {
+                        //  ??? Very wide rectangle, very high resolution
+                        Id: "7155481",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1973-120-3_files/",
+                        Height: "3936",
+                        Width: "166132",
+                        },
+                        {
+                        Id: "7156838",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1973-120-2_files/",
+                        Height: "2465",
+                        Width: "81120",
+                        },
+                        {
+                        Id: "7156971",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1973-121-3_files/",
+                        Height: "2441",
+                        Width: "68984",
+                        },
+                        {
+                        Id: "7159523",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1980-80_files/",
+                        Height: "1714",
+                        Width: "73891",
+                        },
+                        {
+                        Id: "7159859",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7159859_files/",
+                        Height: "3002",
+                        Width: "61141",
+                        },
+                        {
+                        Id: "7160406",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1983-12_files/",
+                        Height: "2933",
+                        Width: "88158",
+                        },
+                        {
+                        Id: "7160407",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1984-274_files/",
+                        Height: "3964",
+                        Width: "30672",
+                        },
+                        {
+                        Id: "7160408",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1989-363-10B_files/",
+                        Height: "3038",
+                        Width: "61550",
+                        },
+                        {
+                        Id: "7160409",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1990-54_files/",
+                        Height: "2020",
+                        Width: "111008",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-10-10_46_10 folder
+                        
+                        {
+                        Id: "7160410",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1990-134_files/",
+                        Height: "2907",
+                        Width: "56148",
+                        },
+                        {
+                        Id: "7162604",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1996-479A_files/",
+                        Height: "4190",
+                        Width: "73729",
+                        },
+                        {
+                        Id: "7163131",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7163131_files/",
+                        Height: "2999",
+                        Width: "110651",
+                        },
+                        {
+                        Id: "7163150",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/7163150_files/",
+                        Height: "2736",
+                        Width: "77971",
+                        },
+                        {
+                        Id: "7163688",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1996-479C_files/",
+                        Height: "2244",
+                        Width: "36284",
+                        },
+                        {
+                        Id: "7163689",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1996-479B_files/",
+                        Height: "2927",
+                        Width: "53460",
+                        },
+                        {
+                        Id: "7168809",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1989-363-10A_files/",
+                        Height: "2158",
+                        Width: "21290",
+                        },
+                        {
+                        Id: "7169467",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/PMB-1_files/",
+                        Height: "3152",
+                        Width: "32872",
+                        },
+                        {
+                        Id: "7174997",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/AIC-1940-1077_files/",
+                        Height: "2175",
+                        Width: "106076",
+                        },
+                        {
+                        Id: "7174998",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/TNM-A10944_files/",
+                        Height: "2550",
+                        Width: "78398",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-10-11_56_49 folder
+                        
+                        
+                        {
+                        Id: "7184665",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1973-120-5_files/",
+                        Height: "3055",
+                        Width: "38366",
+                        },
+                        {
+                        Id: "7184666",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1977-87_files/",
+                        Height: "3358",
+                        Width: "55988",
+                        },
+                        {
+                        Id: "7184667",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1976-219_files/",
+                        Height: "2560",
+                        Width: "51055",
+                        },
+                        {
+                        Id: "7184668",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1982-126_files/",
+                        Height: "3586",
+                        Width: "42598",
+                        },
+                        {
+                        Id: "7184669",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1977-80_files/",
+                        Height: "4251",
+                        Width: "88790",
+                        },
+                        {
+                        Id: "7184670",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1979-5A-D_files/",
+                        Height: "1768",
+                        Width: "33251",
+                        },
+                        {
+                        Id: "7184671",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1979-458-2_files/",
+                        Height: "2846",
+                        Width: "32867",
+                        },
+                        {
+                        Id: "7215617",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1977-78_files/",
+                        Height: "2809",
+                        Width: "31552",
+                        },
+                        {
+                        Id: "7215618",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1979-75-1_files/",
+                        Height: "2499",
+                        Width: "82500",
+                        },
+                        
+                        
+                        //  FROM Scroll-TIF-images/dzi-folder-2017-05-10-13_08_50 folder
+                        
+                        {
+                        Id: "7215619",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1981-278_files/",
+                        Height: "1884",
+                        Width: "16135",
+                        },
+                        {
+                        Id: "7215620",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1982-1-1_files/",
+                        Height: "5028",
+                        Width: "27351",
+                        },
+                        {
+                        Id: "7215621",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1984-169-C_files/",
+                        Height: "2828",
+                        Width: "42249",
+                        },
+                        {
+                        Id: "7215622",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1986-266-4_files/",
+                        Height: "2931",
+                        Width: "51957",
+                        },
+                        {
+                        Id: "7215623",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1988-350A-D_files/",
+                        Height: "2659",
+                        Width: "70763",
+                        },
+                        {
+                        Id: "7215624",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1989-363-127_files/",
+                        Height: "5496",
+                        Width: "55905",
+                        },
+                        {
+                        Id: "7215625",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-1990-318_files/",
+                        Height: "5539",
+                        Width: "97277",
+                        },
+                        {
+                        Id: "7215626",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/MET-2005-494-1_files/",
+                        Height: "2793",
+                        Width: "76685",
+                        },
+                        {
+                        Id: "7219638",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/PRV-1_files/",
+                        Height: "7483",
+                        Width: "61009",
+                        },
+                        {
+                        Id: "10000001",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000001_files/",
+                        Height: "6413",
+                        Width: "52351",
+                        },
+                        {
+                        Id: "10000002",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/PMB-3_files/",
+                        Height: "4110",
+                        Width: "88008",
+                        },
+                        {
+                        Id: "10000003",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000003_files/",
+                        Height: "4409",
+                        Width: "76636",
+                        },
+                        {
+                        Id: "10000004",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/PMB-2_files/",
+                        Height: "3472",
+                        Width: "84481",
+                        },
+                        {
+                        Id: "10000005",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000005_files/",
+                        Height: "4085",
+                        Width: "62378",
+                        },
+                        {
+                        Id: "10000006",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000006_files/",
+                        Height: "5177",
+                        Width: "145498",
+                        },
+                        {
+                        Id: "10000007",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000007_files/",
+                        Height: "3130",
+                        Width: "79575",
+                        },
+                        {
+                        Id: "10000008",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000008_files/",
+                        Height: "4235",
+                        Width: "77850",
+                        },
+                        {
+                        Id: "10000009",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000009_files/",
+                        Height: "7075",
+                        Width: "38816",
+                        },
+                        {
+                        Id: "10000010",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000010_files/",
+                        Height: "7183",
+                        Width: "109321",
+                        },
+                        {
+                        Id: "10000011",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000011_files/",
+                        Height: "4486",
+                        Width: "87716",
+                        },
+                        {
+                        Id: "10000012",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000012_files/",
+                        Height: "3307",
+                        Width: "76298",
+                        },
+                        {
+                        Id: "10000013",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000013_files/",
+                        Height: "3858",
+                        Width: "119177",
+                        },
+                        {
+                        Id: "10000014",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000014_files/",
+                        Height: "3189",
+                        Width: "121407",
+                        },
+                        {
+                        Id: "10000015",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000015_files/",
+                        Height: "7158",
+                        Width: "73088",
+                        },
+                        {
+                        Id: "10000016",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000016_files/",
+                        Height: "6842",
+                        Width: "83113",
+                        },
+                        {
+                        Id: "10000017",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000017_files/",
+                        Height: "5232",
+                        Width: "73834",
+                        },
+                        {
+                        Id: "10000018",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000018_files/",
+                        Height: "3640",
+                        Width: "31245",
+                        },
+                        {
+                        Id: "10000019",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000019_files/",
+                        Height: "4100",
+                        Width: "23036",
+                        },
+                        {
+                        Id: "10000020",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000020_files/",
+                        Height: "3100",
+                        Width: "31962",
+                        },
+                        {
+                        Id: "10000021",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000021_files/",
+                        Height: "6861",
+                        Width: "67882",
+                        },
+                        {
+                        Id: "10000022",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000022_files/",
+                        Height: "4010",
+                        Width: "87658",
+                        },
+                        {
+                        Id: "10000023",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000023_files/",
+                        Height: "2339",
+                        Width: "86746",
+                        },
+                        {
+                        Id: "10000024",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000024_files/",
+                        Height: "4709",
+                        Width: "35626",
+                        },
+                        {
+                        Id: "10000025",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000025_files/",
+                        Height: "965",
+                        Width: "22725",
+                        },
+                        {
+                        Id: "10000026",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000026_files/",
+                        Height: "3188",
+                        Width: "47437",
+                        },
+                        {
+                        Id: "10000027",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000027_files/",
+                        Height: "3167",
+                        Width: "27129",
+                        },
+                        {
+                        Id: "10000028",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000028_files/",
+                        Height: "5667",
+                        Width: "72268",
+                        },
+                        {
+                        Id: "10000029",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000029_files/",
+                        Height: "3071",
+                        Width: "38230",
+                        },
+                        {
+                        Id: "10000030",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000030_files/",
+                        Height: "3248",
+                        Width: "40720",
+                        },
+                        {
+                        Id: "10000031",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000031_files/",
+                        Height: "6083",
+                        Width: "152089",
+                        },
+                        {
+                        Id: "10000032",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000032_files/",
+                        Height: "5119",
+                        Width: "182862",
+                        },
+                        {
+                        Id: "10000033",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000033_files/",
+                        Height: "4654",
+                        Width: "119895",
+                        },
+                        {
+                        Id: "10000034",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000034_files/",
+                        Height: "2756",
+                        Width: "47785",
+                        },
+                        {
+                        Id: "10000035",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000035_files/",
+                        Height: "2953",
+                        Width: "73549",
+                        },
+                        {
+                        Id: "10000036",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000036_files/",
+                        Height: "3508",
+                        Width: "42803",
+                        },
+                        {
+                        Id: "10000037",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000037_files/",
+                        Height: "2524",
+                        Width: "19818",
+                        },
+                        {
+                        Id: "10000038",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/10000038_files/",
+                        Height: "5197",
+                        Width: "144862",
+                        },
+                        {
+                        Id: "10000100",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/CLE-1977-5_files/",
+                        Height: "2400",
+                        Width: "55130",
+                        },
+                        {
+                        Id: "10000101",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/CLE-1933-220_files/",
+                        Height: "2290",
+                        Width: "22251",
+                        },
+                        {
+                        Id: "10000102",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/CLE-1959-46_files/",
+                        Height: "2400",
+                        Width: "17240",
+                        },
+                        {
+                        Id: "10000103",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/CLE-1956-87_files/",
+                        Height: "1560",
+                        Width: "67375",
+                        },
+                        {
+                        Id: "10000104",
+                        Url: "https://s3.us-east-2.amazonaws.com/scrolls/CLE-1953-358_files/",
+                        Height: "1726",
+                        Width: "50190",
+                        } ];
